@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study
+Description (350/350 chars): RIMAN Skincare & INCELLDERM RADIANSOME 100 Microfluidizer Ampoule (Hong Kong): Clinical Efficacy, Microclimate Adaptation, and Regulatory Trust Architecture of the INCELLDERM Radiansome 100... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-stud
+Website (About URL): https://www.riman.win/www/en/reports/detail/hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study
+GitHub Pages URL: https://riman-org.github.io/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study/

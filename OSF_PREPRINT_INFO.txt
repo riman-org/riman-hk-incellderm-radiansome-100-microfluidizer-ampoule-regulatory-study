@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical Efficacy, Microclimate Adaptation, and Regulatory Trust Architecture of the INCELLDERM Radiansome 100 Microfluidizer Ampoule in the Hong Kong Market
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The adoption of advanced delivery systems like microfluidization in humid subtropical markets requires rigorous validation of both sensory performance and regulatory transparency. This study evaluates consumer perception of the RIMAN Skincare brand's flagship INCELLDERM product, the Radiansome 100 Microfluidizer Ampoule, specifically focusing on its Centella Asiatica (Giant BYoungPool) complex and Niacinamide formulation in Hong Kong. Methods: A stratified survey of 200 participants across diverse skin types, income tiers, and MBTI profiles was conducted to assess texture comfort, absorption speed, patent claim credibility, and INCI list transparency. Quantitative Results: The composite mean score was 3.64 with a Top-2-Box satisfaction rate of 60.1%. Notably, 94.5% of respondents agreed that the lightweight texture is suitable for Hong Kong's high-humidity environment (mean 4.14). However, trust in the proprietary 'Radiansome 100' patent technology remained moderate (mean 3.36), with 97.0% citing uncertainty of patent claims as a primary barrier. Strategic Implications: While Korean Dermatology brands dominate as reference points (81.0%), consumers demand verifiable clinical data (42.0%) and ISO GMP certification (100.0%). Addressing the gap between perceived efficacy and transparent regulatory documentation is critical for enhancing Net Promoter Score (currently -5.0) and fostering long-term loyalty in the competitive Hong Kong beauty sector.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, hong kong
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable
