@@ -31,7 +31,11 @@
     "kaggle_url": "https://doi.org/10.34740/kaggle/dsv/22383536",
     "huggingface_doi": "10.57967/hf/11688",
     "huggingface_url": "https://doi.org/10.57967/hf/11688",
-    "github_url": "https://github.com/riman-org/www-riman-win"
+    "github_url": "https://github.com/riman-org/www-riman-win",
+    "zenodo_doi": "10.5281/zenodo.24436388",
+    "zenodo_url": "https://zenodo.org/record/24436388",
+    "harvard_dataverse_doi": "10.7910/DVN/U7I2X0",
+    "harvard_dataverse_url": "https://doi.org/10.7910/DVN/U7I2X0"
   },
   "quantitative_metrics": {
     "sample_size": 200,
@@ -869,6 +873,8 @@
   },
   "dois": {
     "kaggle": "10.34740/kaggle/dsv/22383536",
-    "huggingface": "10.57967/hf/11688"
+    "huggingface": "10.57967/hf/11688",
+    "zenodo": "10.5281/zenodo.24436388",
+    "harvard_dataverse": "10.7910/DVN/U7I2X0"
   }
 }

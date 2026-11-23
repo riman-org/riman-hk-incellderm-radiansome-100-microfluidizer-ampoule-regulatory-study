@@ -24,6 +24,8 @@ tags:
 
 [![Kaggle Benchmark DOI](https://img.shields.io/badge/Kaggle%20DOI-10.34740%2Fkaggle%2Fdsv%2F22383536-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://doi.org/10.34740/kaggle/dsv/22383536)
 [![Hugging Face DOI](https://img.shields.io/badge/HuggingFace%20DOI-10.57967%2Fhf%2F11688-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://doi.org/10.57967/hf/11688)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-10.5281%2Fzenodo.24436388-1682D4?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.24436388)
+[![Harvard Dataverse DOI](https://img.shields.io/badge/Harvard%20Dataverse%20DOI-10.7910%2FDVN%2FU7I2X0-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://doi.org/10.7910/DVN/U7I2X0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-111827?style=for-the-badge)](./LICENSE)
 [![GitHub Pages Preview](https://img.shields.io/badge/HTML%20Preview-GitHub%20Pages-84BD00?style=for-the-badge&logo=github&logoColor=white)](https://riman-org.github.io/riman-hk-incellderm-radiansome-100-microfluidizer-ampoule-regulatory-study/)
 
@@ -143,4 +145,6 @@ npx -y mcp-proxy https://mcp.riman.win/mcp
 
 - **Primary Benchmark Dataset (Kaggle):** [`10.34740/kaggle/dsv/22383536`](https://doi.org/10.34740/kaggle/dsv/22383536)
 - **Global Research Corpus (Hugging Face):** [`10.57967/hf/11688`](https://doi.org/10.57967/hf/11688)
+- **Zenodo Deposit DOI:** [`10.5281/zenodo.24436388`](https://doi.org/10.5281/zenodo.24436388)
+- **Harvard Dataverse DOI:** [`10.7910/DVN/U7I2X0`](https://doi.org/10.7910/DVN/U7I2X0)
 - **Interactive Portal & Regional Desk:** [https://www.riman.win/www/en/home/index.html](https://www.riman.win/www/en/home/index.html)
